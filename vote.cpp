@@ -10,7 +10,8 @@ int main() {
      }
     else
     {
-        cout<<age<<"\nYour age is  less than 18"<<"\nWait until 18"<<endl;
+        cout<<"You are not eligible to vote";
+        cout<<"\nYour age "<<age<<" is  less than 18"<<"\nWait until 18"<<endl;
     }
     return 0;
 }
