@@ -6,7 +6,7 @@ int main() {
     cin>>age;
     if(age>=18)
     { 
-        cout<<"You are eligible to vote:"<<endl;
+        cout<<"You are eligible to vote"<<endl;
      }
     else
     {
